@@ -1,0 +1,5 @@
+Action Query:
+    - Make table : table toiri kore
+    - Append : table e row add kore
+    - update : update kore
+    - Delete : data delete kore
