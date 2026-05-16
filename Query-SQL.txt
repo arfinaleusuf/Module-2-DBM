@@ -1,0 +1,8 @@
+Query - SQL
+
+Query:
+    - Select Query : khuje niye ashe
+    - Parameter Query : Parameter pathiye data return kore
+    - Cross tab Query : summary akare data dey
+    - Unmatch Query: match na kora data gulu caile use kore.
+    - Action Query: delete, update etc kora hoy
