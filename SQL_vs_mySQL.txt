@@ -1,0 +1,2 @@
+SQL : structured Query Language
+My SQL: database (relational database)
