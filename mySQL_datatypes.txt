@@ -1,0 +1,26 @@
+ Numeric type: 
+    -> int 
+    -> floot
+    -> Double
+    -> Numeric
+
+Srting type:
+    CHAR --> CHAR(4) 'abcd'
+    VACHAR --> varchar(5)
+
+Date Time type:
+    data -> 9 jan 2003
+    time -> hh:mm:ss
+    date time
+
+Boolan Type:
+    Bool 
+
+Binnary Type:
+    BINNARY(10000)
+
+set type:
+    1, 2, 3, 4, 5(uniqe value)
+    SET (..)
+Bit Type:
+    Bit(5)
