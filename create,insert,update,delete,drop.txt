@@ -1,0 +1,11 @@
+create -> table toiri
+insert -> table existing
+            data entry
+update -> table exist 
+            data exist
+            data change
+
+delete -> table
+            data
+            delete
+drop -> table delete
