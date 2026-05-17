@@ -3,3 +3,16 @@ Action Query:
     - Append : table e row add kore
     - update : update kore
     - Delete : data delete kore
+
+SQL: structured Query language
+
+Query language:
+    - QUEL Query language
+    - QBE Query by example
+    - SQL structured Query language
+
+SQL :
+    -> DML : data menupulation language -- select, insert, update, delete 
+    -> DDL : data defination language -- create kora type structure change kora, create, Append(coloum add), drop(puro table delete kora) 
+    -> DCL : data control language
+    -> DTL : data transaction language
