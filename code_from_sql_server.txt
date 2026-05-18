@@ -17,3 +17,8 @@ INSERT INTO Student
 INSERT INTO Student  -- PRIMARY KEY te abar data push kora jay Name
 (Roll, Name) values(2, "korim");
 
+SET SQL_SAFE_UPDATES = 0;  -- safe mode off
+UPDATE Student
+SET Name = 'Arfin Al Eusuf'
+WHERE Roll = 1;
+SET SQL_SAFE_UPDATES = 1;  -- safe mode on kora
