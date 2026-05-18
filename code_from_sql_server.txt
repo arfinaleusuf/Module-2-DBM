@@ -10,3 +10,10 @@ DROP table Student;  --delete the table
 
 INSERT INTO Student  -- insert data in table
 (Roll, Name, Marks) values(1, "arfin", 90);
+
+INSERT INTO Student
+(Roll, Name) values(2, "rahim");
+
+INSERT INTO Student  -- PRIMARY KEY te abar data push kora jay Name
+(Roll, Name) values(2, "korim");
+
