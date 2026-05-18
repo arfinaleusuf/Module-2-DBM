@@ -7,3 +7,7 @@ CREATE TABLE Student(
 );
 
 DROP table Student;  --delete the table
+
+INSERT INTO Student  -- set data in table
+(Roll, Name, Marks) values(1, "arfin", 90);
+
