@@ -5,3 +5,5 @@ CREATE TABLE Student(
     Name VARCHAR(50),
     Marks DOUBLE
 );
+
+DROP table Student;  --delete the table
